@@ -46,8 +46,7 @@ MAXX(SubIndices, [Value])
 
 ## 🖼️ Dashboard Preview
 
-(weather api.png)
-
+<p align="center"> <img src="weather_api.png" alt="Dashboard Preview" width="500"> </p>
 
 
 ## 🙏 Credits & Inspiration
