@@ -46,11 +46,9 @@ MAXX(SubIndices, [Value])
 
 ## 🖼️ Dashboard Preview
 
-![Weather & AQI Dashboard](weather api.png)
+(weather api.png)
 
-*(Note: Upload your screenshot to your GitHub repository and name it `dashboard_screenshot.png` for it to appear here.)*
 
----
 
 ## 🙏 Credits & Inspiration
 This project was developed by following the tutorials on **The Developer** YouTube channel. Their guidance on Power BI design and API integration was instrumental in achieving this professional look.
